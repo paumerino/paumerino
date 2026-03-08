@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm currently studying computer engineering at URV.
+I'm currently studying computer engineering at URV.                                                                     
 I'm a passionate about technology and challenges and building practical solutions.
 
 - 💻 Strong foundation in C, C++, Java, Python & Linux
